@@ -1,5 +1,6 @@
 from eth_hash.auto import keccak
 
+"""" if needed pip install eth-hash[pycryptodome]""""
 def ethereum_hash(data):
     """Hache les données en utilisant la fonction Keccak-256 d'Ethereum."""
     # Convertir les données en bytes si c'est une chaîne de caractères
