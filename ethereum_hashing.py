@@ -1,4 +1,4 @@
-from eth_hash import keccak
+from eth_hash.auto import keccak
 
 def ethereum_hash(data):
     """Hache les données en utilisant la fonction Keccak-256 d'Ethereum."""
