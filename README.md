@@ -56,5 +56,23 @@ pip install -r requirements.txt
 ```
 
 
+# Laboratoire Blockchain: Comprendre et Implémenter un Arbre de Merkle
 
+## Objectif:
+Ce laboratoire a pour but de vous faire comprendre et tester le concept des **arbres de Merkle**. Ces structures sont utilisées dans les blockchains pour vérifier de manière efficace et sécurisée de grandes quantités de données.
+
+À la fin de ce laboratoire, vous serez capables de :
+- Comprendre le concept d'un **Arbre de Merkle** et comment il fonctionne.
+- Implémenter un **Arbre de Merkle** simple en Python.
+- Calculer le **Merkle root** et vérifier l'intégrité des données avec un **Merkle proof**.
+
+## Prérequis:
+Vous aurez besoin de **Python 3.x** installé sur votre machine et des bibliothèques suivantes :
+- **hashlib** : pour effectuer les calculs de hachage.
+- **pytest** : pour les tests de l'Arbre de Merkle.
+
+Installez les dépendances avec la commande suivante :
+```bash
+pip install -r requirements.txt
+```
 
