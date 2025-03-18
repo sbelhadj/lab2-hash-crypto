@@ -1,6 +1,3 @@
-### 📜 **hash_exercise.py**  
-
-```python
 import hashlib
 
 def hash_data(data):
