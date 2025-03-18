@@ -17,11 +17,7 @@ Avant de commencer, assurez-vous d’avoir **Python 3+** installé. Pour vérifi
 ```bash
 python --version
 ```
-Installez la librairie hashlib si nécessaire :
 
-```bash
-pip install hashlib
-```
 
 📝 2. Expérience avec le Hashing
 Ouvrez le fichier hash_exercise.py et exécutez-le :
