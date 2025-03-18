@@ -31,3 +31,30 @@ Accepter une phrase en entrée et générer son hash SHA-256.
 Comparer le hash de deux phrases similaires.
 
 Complétez le fichier student_submission.md avec vos observations.
+
+
+
+# Laboratoire Blockchain: Cryptographie, Hashing et ECDSA
+
+## Objectif:
+Ce laboratoire a pour objectif de vous faire découvrir les concepts clés de la cryptographie utilisés dans les blockchains, en particulier **Ethereum**. À la fin de ce laboratoire, vous serez capables de :
+- Utiliser la fonction de **haching Ethereum (Keccak-256)**.
+- Implémenter **ECDSA (Elliptic Curve Digital Signature Algorithm)** pour générer des clés, signer et vérifier des messages.
+  
+Le laboratoire est divisé en **deux activités** :
+1. **Activité 1 : Fonction de Hachage Ethereum** (Keccak-256)
+2. **Activité 2 : Cryptographie avec ECDSA**
+
+## Prérequis:
+Vous aurez besoin de **Python** installé sur votre machine, ainsi que des bibliothèques suivantes :
+- **ecdsa** : Pour les fonctions de cryptographie utilisant ECDSA.
+- **eth-hash** : Pour l'implémentation du hachage Ethereum (Keccak-256).
+
+Installez les dépendances en utilisant la commande suivante :
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
