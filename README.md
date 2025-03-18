@@ -16,18 +16,22 @@ Avant de commencer, assurez-vous d’avoir **Python 3+** installé. Pour vérifi
 
 ```bash
 python --version
+```
 Installez la librairie hashlib si nécessaire :
 
-bash
-CopyEdit
+```bash
 pip install hashlib
+```
+
 📝 2. Expérience avec le Hashing
 Ouvrez le fichier hash_exercise.py et exécutez-le :
-bash
-CopyEdit
+```bash
 python hash_exercise.py
+```
+
 Analysez la sortie et modifiez le script pour :
 
 Accepter une phrase en entrée et générer son hash SHA-256.
 Comparer le hash de deux phrases similaires.
+
 Complétez le fichier student_submission.md avec vos observations.
