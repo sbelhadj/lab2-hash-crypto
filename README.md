@@ -1,4 +1,4 @@
-# 🔐 Lab 1 : Comprendre le Hashing et la Cryptographie
+# 🔐 Lab 2 : Comprendre le Hashing , la Cryptographie , Merkle Tree
 
 ## 🎯 Objectif  
 Ce Lab vous permettra de comprendre le rôle du **hashing cryptographique** et de l’expérimenter en Python.  
