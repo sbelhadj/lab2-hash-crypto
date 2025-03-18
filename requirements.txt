@@ -1,3 +1,4 @@
 ecdsa==0.18.0
 eth-hash==0.3.0
 pycryptodome==3.10.1
+pytest==6.2.5
